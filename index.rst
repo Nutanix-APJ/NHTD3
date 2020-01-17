@@ -9,7 +9,7 @@
 
   files_deploy/files_deploy
   files_smb/files_smb
-  Volumes/volumes
+  volumes/volumes
 
 
 
