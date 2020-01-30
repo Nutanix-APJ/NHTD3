@@ -3,13 +3,12 @@
 
 .. toctree::
   :maxdepth: 2
-  :caption: Files and block service
-  :name: _labs
+  :caption: Calm
+  :name: _calm
   :hidden:
 
-  files_deploy/files_deploy
-  files_smb/files_smb
-  volumes/volumes
+  calm_enable_projects/calm_enable_projects
+  calm_windows_blueprint/calm_windows_blueprint
 
 
 
