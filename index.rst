@@ -9,6 +9,7 @@
 
   calm_enable_projects/calm_enable_projects
   calm_windows_blueprint/calm_windows_blueprint
+  taskman/taskman
 
 
 
