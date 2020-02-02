@@ -9,8 +9,7 @@ Deploying Task Manager
 Overview
 ++++++++
 
-**This exercise walks you through importing and launching a Calm blueprint to deploy a simple Task Manager application used in multiple labs. You do not need to complete this exercise unless directed to do so as staging for another lab.**
-
+**This exercise walks you through importing and launching a Calm blueprint to deploy a simple Task Manager application used in further labs. **
 Verifying the Default Project
 +++++++++++++++++++++++++++++
 
