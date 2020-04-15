@@ -1,4 +1,4 @@
-.. title:: Nutanix New Hire Training
+.. title:: Nutanix New Hire Training_Post Lab
 
 
 .. toctree::
@@ -11,6 +11,13 @@
   calm_windows_blueprint/calm_windows_blueprint
   taskman/taskman
 
+
+.. toctree::
+  :maxdepth: 2
+  :caption: Block service and Object
+  :name: _labs
+  :hidden:
+  Volumes/volumes
 
 
 .. _getting_started:
